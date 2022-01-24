@@ -168,6 +168,22 @@
         </div>
     </section>
 
+    <!-- My Project -->
+    <section>
+        <div class="container pt-5 pb-5">
+            <h4 id="myproject-title">My Projects</h4>
+            <hr width="119px" size="4px" id="line">
+        </div>
+    </section>
+
+    <!-- Contact -->
+    <section id="background-2">
+        <div class="container pt-5 pb-5">
+            <h4 id="contact-title">Contact Me</h4>
+            <hr width="119px" size="4px" id="line">
+        </div>
+    </section>
+
     <section>
         <img src="images/wave.png" class="img-fluid" alt="" id="wave">
     </section>
