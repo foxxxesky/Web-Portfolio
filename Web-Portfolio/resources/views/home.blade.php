@@ -40,7 +40,7 @@
     </div>
 
     <!-- Profile -->
-    <section>
+    <section class="pb-4">
         <div class="container pt-4">
             <div class="row justify-content-between">
                 <div class="col-md-6">
@@ -48,15 +48,10 @@
                     <h4 id="profile-name">Syariif Abdurrahman</h4>
                     <h4 id="profile-name">Bathik</h4>
                     <hr width="144px" size="4px" id="line">
-                    <p class="pt-3" id="profile-desc">I am an undergraduate student in Information Systems at the
-                        Faculty of
-                        Industrial Engineering,
-                        Telkom University who wants to have a career in IT and Business. I am an enthusiastic student
-                        and have a strong motivation in facing challenges and exploring new things. I also have good
-                        communication, am conscientious, can work in a team, and can adapt to a new work environment. I
-                        am currently looking for opportunities and opportunities to continue to progress and develop.
+                    <p class="pt-5" id="profile-desc">I am Syariif, a 5th semester student of Information Systems at
+                        Telkom University. I am passionate, committed, fast learner and reliable person.
                     </p>
-                    <div class="pt-3">
+                    <div class="pt-5">
                         <form action="" method="post">
                             <tr>
                                 <td>
@@ -69,32 +64,105 @@
                             </tr>
                         </form>
                     </div>
-                    <div class="pt-5">
+                    <div class="pt-5 pb-5">
                         <p id="profile-social">Social</p>
                         <tr>
-                            <td><img src="images/linkedin.png" alt=""></td>
+                            <td><a href="https://www.linkedin.com/in/syariif-abdurrahman-bathik/"><img
+                                        src="images/linkedin.png" alt=""></a></td>
                         </tr>
                         <span class="ps-2"></span>
                         <tr>
-                            <td><img src="images/github.png" alt=""></td>
+                            <td><a href="https://github.com/foxxxesky"><img src="images/github.png" alt=""></a></td>
                         </tr>
                         <span class="ps-2"></span>
                         <tr>
-                            <td><img src="images/discord.png" alt=""></td>
-                        </tr>
-                        <span class="ps-2"></span>
-                        <tr>
-                            <td><img src="images/gmail.png" alt=""></td>
+                            <td><a href="mailto:abdurrahman1467@gmail.com"><img src="images/gmail.png" alt=""></a></td>
                         </tr>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="text-end">
-                        <img src="images/ProfilePictures.png" alt="" width="518px" height="517px">
+                        <img src="images/ProfilePictures.png" alt="" class="img-fluid" width="518px" height="517px">
                     </div>
                 </div>
             </div>
         </div>
+    </section>
+
+    <!-- Skills -->
+    <section id="background-2">
+        <div class="container pt-5 pb-5">
+            <h4 id="skill-title">What Can I Do?</h4>
+            <hr width="119px" size="4px" id="line">
+            <div class="row justify-content-between">
+                <div class="col-md-6 pt-4">
+                    <div class="card" id="skill-card">
+                        <div class="card-body">
+                            <div class="row justify-content-start">
+                                <div class="col-md-2 pt-2">
+                                    <img src="images/programing.png" alt="" width="76px" height="76px"
+                                        class="img-fluid">
+                                </div>
+                                <div class="col-10">
+                                    <h4 id="card-title-skill">Programing</h4>
+                                    <p id="card-text-skill">Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                                        Quidem
+                                        veritatis magni
+                                        esse velit molestias quaerat iusto rerum? Quibusdam, eveniet amet.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pt-3">
+                        <div class="card" id="skill-card">
+                            <div class="card-body">
+                                <div class="row justify-content-start">
+                                    <div class="col-md-2 pt-2">
+                                        <img src="images/programing.png" alt="" width="76px" height="76px"
+                                            class="img-fluid">
+                                    </div>
+                                    <div class="col-10">
+                                        <h4 id="card-title-skill">Programing</h4>
+                                        <p id="card-text-skill">Lorem ipsum dolor, sit amet consectetur adipisicing
+                                            elit.
+                                            Quidem
+                                            veritatis magni
+                                            esse velit molestias quaerat iusto rerum? Quibusdam, eveniet amet.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pt-3">
+                        <div class="card" id="skill-card">
+                            <div class="card-body">
+                                <div class="row justify-content-start">
+                                    <div class="col-md-2 pt-2">
+                                        <img src="images/programing.png" alt="" width="76px" height="76px"
+                                            class="img-fluid">
+                                    </div>
+                                    <div class="col-10">
+                                        <h4 id="card-title-skill">Programing</h4>
+                                        <p id="card-text-skill">Lorem ipsum dolor, sit amet consectetur adipisicing
+                                            elit.
+                                            Quidem
+                                            veritatis magni
+                                            esse velit molestias quaerat iusto rerum? Quibusdam, eveniet amet.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    One of two columns
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <img src="images/wave.png" class="img-fluid" alt="" id="wave">
     </section>
 
 </body>

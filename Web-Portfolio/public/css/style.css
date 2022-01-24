@@ -51,3 +51,33 @@
     font-weight: 500;
     color: #504a4a;
 }
+
+/* Skill */
+#background-2 {
+    background-color: #f5ffff;
+}
+
+#skill-title {
+    font-size: 46px;
+    font-weight: 700;
+    color: #2d3047;
+}
+
+#skill-card {
+    background: rgba(0, 159, 183, 0.25);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+#card-title-skill {
+    font-size: 24px;
+    font-weight: 500;
+    color: #2d3047;
+}
+
+#card-text-skill {
+    font-size: 14px;
+    color: #2d3047;
+}
