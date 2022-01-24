@@ -118,11 +118,10 @@
                             <div class="card-body">
                                 <div class="row justify-content-start">
                                     <div class="col-md-2 pt-2">
-                                        <img src="images/programing.png" alt="" width="76px" height="76px"
-                                            class="img-fluid">
+                                        <img src="images/uiux.png" alt="" width="76px" height="76px" class="img-fluid">
                                     </div>
                                     <div class="col-10">
-                                        <h4 id="card-title-skill">Programing</h4>
+                                        <h4 id="card-title-skill">UI/UX Design</h4>
                                         <p id="card-text-skill">Lorem ipsum dolor, sit amet consectetur adipisicing
                                             elit.
                                             Quidem
@@ -138,11 +137,10 @@
                             <div class="card-body">
                                 <div class="row justify-content-start">
                                     <div class="col-md-2 pt-2">
-                                        <img src="images/programing.png" alt="" width="76px" height="76px"
-                                            class="img-fluid">
+                                        <img src="images/data.svg" alt="" width="76px" height="76px" class="img-fluid">
                                     </div>
                                     <div class="col-10">
-                                        <h4 id="card-title-skill">Programing</h4>
+                                        <h4 id="card-title-skill">Data Analysis</h4>
                                         <p id="card-text-skill">Lorem ipsum dolor, sit amet consectetur adipisicing
                                             elit.
                                             Quidem
