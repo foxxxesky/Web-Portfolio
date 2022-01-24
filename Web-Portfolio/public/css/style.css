@@ -1,0 +1,53 @@
+* {
+    font-family: "Inter", sans-serif;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+.nav-link {
+    font-size: 18px;
+    font-weight: 500;
+    color: #587291;
+}
+
+#line {
+    color: #009fb7;
+}
+
+#profile-hello {
+    font-size: 18px;
+    font-weight: 500;
+    color: #009fb7;
+}
+
+#profile-name {
+    font-size: 46px;
+    font-weight: 700;
+    color: #2d3047;
+}
+
+#profile-desc {
+    font-size: 18px;
+    font-weight: 500;
+    color: #504a4a;
+}
+
+#button-download-cv {
+    font-size: 18px;
+    font-weight: 500;
+    color: #ffff;
+    background-color: #009fb7;
+}
+
+#button-hire {
+    font-size: 18px;
+    font-weight: 500;
+    color: #ffff;
+    background-color: #009fb7;
+}
+
+#profile-social {
+    font-size: 14px;
+    font-weight: 500;
+    color: #504a4a;
+}
