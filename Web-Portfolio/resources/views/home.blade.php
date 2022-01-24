@@ -152,8 +152,17 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6">
-                    One of two columns
+                <div class="col-md-1"></div>
+                <div class="col-md-5 pt-4">
+                    <h5 id="language_tools">Language & Tools</h5>
+                    <hr width="124px" size="3px" id="line">
+                    <div class="pt-4">
+                        <img src="images/row1.png" alt="" width="449px" height="60px" class="img-fluid">
+                    </div>
+                    <div class="pt-4">
+                        <img src="images/row2.png" alt="" width="457px" height="56px" class="img-fluid">
+                    </div>
+
                 </div>
             </div>
         </div>
