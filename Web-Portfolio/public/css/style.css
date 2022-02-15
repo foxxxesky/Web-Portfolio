@@ -33,15 +33,13 @@
 }
 
 #button-download-cv {
-    font-size: 18px;
-    font-weight: 500;
+    font-size: 15px;
     color: #ffff;
     background-color: #009fb7;
 }
 
 #button-hire {
-    font-size: 18px;
-    font-weight: 500;
+    font-size: 15px;
     color: #ffff;
     background-color: #009fb7;
 }
@@ -101,4 +99,16 @@
     font-weight: 700;
     font-size: 46px;
     color: #2d3047;
+}
+
+#contact-text {
+    font-size: 20px;
+    font-weight: 500;
+    color: #504a4a;
+}
+
+#button-message {
+    font-size: 15px;
+    color: #ffff;
+    background-color: #009fb7;
 }

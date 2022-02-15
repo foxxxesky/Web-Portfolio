@@ -55,7 +55,8 @@
                         <form action="" method="post">
                             <tr>
                                 <td>
-                                    <button class="btn" id="button-download-cv">Download CV</button>
+                                    <button class="btn" id="button-download-cv">Download CV <span class="ps-2"><img
+                                                src="images/download.png" alt="" width="20" height="20"></span></button>
                                 </td>
                                 <span class="ps-4"></span>
                                 <td>
@@ -68,7 +69,7 @@
                         <p id="profile-social">Social</p>
                         <tr>
                             <td><a href="https://www.linkedin.com/in/syariif-abdurrahman-bathik/"><img
-                                        src="images/linkedin.png" alt=""></a></td>
+                                        src="images/linkedin.png" alt="" class="img-fluid"></a></td>
                         </tr>
                         <span class="ps-2"></span>
                         <tr>
@@ -181,6 +182,43 @@
         <div class="container pt-5 pb-5">
             <h4 id="contact-title">Contact Me</h4>
             <hr width="119px" size="4px" id="line">
+            <div class="row justify-content-between">
+                <div class="col-md-6">
+                    <p class="pt-4" id="contact-text">I’m interested in internship, part-time, or freelance
+                        opportunities. However if you have other request
+                        or question, don’t hesitate to use the form.</p>
+                    <form action="" method="">
+                        <div class="row justify-content-between pt-4">
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <input type="text" class="form-control" name="name" placeholder="Name">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <input type="email" class="form-control" name="email" placeholder="Email">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="mb-3">
+                            <input type="text" class="form-control" name="subject" placeholder="Subject">
+                        </div>
+                        <div class="mb-3">
+                            <textarea class="form-control" name="message" rows="8" placeholder="Message"></textarea>
+                        </div>
+                        <div class="mb-3 text-end">
+                            <button class="btn" type="button" id="button-message">Send Message! <span class="ps-2"><img
+                                        src="images/paperplane.png" alt="" width="20" height="20"></span></button>
+                        </div>
+                    </form>
+                </div>
+                <div class="col-md-1"></div>
+                <div class="col-md-5 pt-4">
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d990.0655240810925!2d107.6518912291646!3d-6.978370299684905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e9c5f473dc4f%3A0x813ca91738e34448!2sJl.%20Imperata%20No.E12%2C%20RW.5%2C%20Lengkong%2C%20Kec.%20Bojongsoang%2C%20Kabupaten%20Bandung%2C%20Jawa%20Barat%2040287!5e0!3m2!1sid!2sid!4v1643017130165!5m2!1sid!2sid"
+                        width="659" height="490" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                </div>
+            </div>
         </div>
     </section>
 
